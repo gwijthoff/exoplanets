@@ -1,4 +1,4 @@
-Using [Flat Data](https://next.github.com/projects/flat-data) to pull live-updated data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html). As of September 10, 2021, it includes 4,516 planets discovered outside of our solar system.
+Using [Flat Data](https://next.github.com/projects/flat-data) to pull live-updated data from the [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/docs/TAP/usingTAP.html). As of September 10, 2021, it includes 4,516 planets discovered outside of our solar system. There are 53 known planets orbiting 3-sun systems, like Liu Cixin's [Trisolarans](https://en.wikipedia.org/wiki/Remembrance_of_Earth%27s_Past), and 2 planets orbiting 4-sun systems: [PH1 b](https://exoplanetarchive.ipac.caltech.edu/overview/PH1b) and [30 Ari B b](https://exoplanetarchive.ipac.caltech.edu/overview/30Ari).
 
 To view a filterable, sortable version of this data file, 👉[CLICK HERE](https://flatgithub.com/gwijthoff/exoplanets?filename=exoplanets.json)👈.
 
